@@ -6,16 +6,16 @@
 
 main:
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
     
   - title: "Activities"
-    url: /Activities/    
+    url: /activities/    
     
   - title: "Skills"
-    url: /Skills/
+    url: /skills/
         
   - title: "Contact me"
     url: /Contact-me/
